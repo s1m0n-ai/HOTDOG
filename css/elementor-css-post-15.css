@@ -1,0 +1,36 @@
+.elementor-15 .elementor-element.elementor-element-d2f9009{--display:flex;--position:absolute;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--background-transition:0.3s;top:50px;--z-index:100;}body:not(.rtl) .elementor-15 .elementor-element.elementor-element-d2f9009{left:0px;}body.rtl .elementor-15 .elementor-element.elementor-element-d2f9009{right:0px;}.elementor-15 .elementor-element.elementor-element-d764e93{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--background-transition:0.3s;}.elementor-15 .elementor-element.elementor-element-572f481{--display:flex;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;--z-index:10;}.elementor-15 .elementor-element.elementor-element-dcfa844{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--align-items:center;--gap:15px 15px;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-15 .elementor-element.elementor-element-d07cc3c img{width:78px;height:80px;}.elementor-15 .elementor-element.elementor-element-5f22caf img{width:78px;height:80px;}.elementor-15 .elementor-element.elementor-element-cb73b19 img{width:78px;height:80px;}.elementor-15 .elementor-element.elementor-element-e278625 img{width:78px;height:80px;}.elementor-15 .elementor-element.elementor-element-794b250 img{width:78px;height:80px;}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-15 .elementor-element.elementor-element-0efd68f .elementor-button{background-color:#A35900;font-family:"Roboto", Sans-serif;font-weight:500;border-style:solid;border-color:var( --e-global-color-c3b6399 );}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(min-width:641px){.elementor-15 .elementor-element.elementor-element-572f481{--width:70%;}.elementor-15 .elementor-element.elementor-element-dcfa844{--width:30%;}}@media(max-width:1024px) and (min-width:641px){.elementor-15 .elementor-element.elementor-element-dcfa844{--width:100%;}}@media(min-width:1536px){.elementor-15 .elementor-element.elementor-element-d2f9009{top:50px;}.elementor-15 .elementor-element.elementor-element-dcfa844{--gap:15px 15px;}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:1024px){.elementor-15 .elementor-element.elementor-element-d2f9009{--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;top:30px;}.elementor-15 .elementor-element.elementor-element-572f481{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-15 .elementor-element.elementor-element-dcfa844{--justify-content:center;--gap:20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-15 .elementor-element.elementor-element-d07cc3c img{width:78px;height:80px;}.elementor-15 .elementor-element.elementor-element-5f22caf img{width:60px;height:60px;}.elementor-15 .elementor-element.elementor-element-cb73b19 img{width:60px;height:60px;}.elementor-15 .elementor-element.elementor-element-e278625 img{width:60px;height:60px;}.elementor-15 .elementor-element.elementor-element-794b250 img{width:60px;height:60px;}.elementor-15 .elementor-element.elementor-element-0efd68f .elementor-button{font-size:25px;border-width:6px 6px 6px 6px;border-radius:100px 100px 100px 100px;padding:22px 22px 22px 22px;}}@media(max-width:768px){.elementor-15 .elementor-element.elementor-element-d2f9009{top:25px;}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}.elementor-15 .elementor-element.elementor-element-0efd68f .elementor-button{font-size:25px;border-width:6px 6px 6px 6px;border-radius:100px 100px 100px 100px;padding:22px 22px 22px 22px;}}@media(max-width:640px){.elementor-15 .elementor-element.elementor-element-dcfa844{--justify-content:center;}.elementor-widget-image .widget-image-caption{font-size:var( --e-global-typography-text-font-size );}}/* Start custom CSS for html, class: .elementor-element-41ba94a */.elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu {
+    display: flex;
+    align-items:center;
+    flex-wrap:wrap;
+    padding:0;
+    margin:0;
+    list-style-type: none;
+    gap: 15px;
+}
+.elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu li {
+    position: relative;
+    flex: 1 1 15%;
+    text-align:center;
+}
+.elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu li img{
+  position: absolute;
+  left:5px;
+  bottom:-22px;
+  width: 200px;
+  opacity:0;
+  transition: all 0.2s ease-in-out;
+    
+}
+.elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu li a:hover ~  img {
+    opacity: 1;
+}
+.elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu a {
+    color: #fff;
+    font-family: "Regtian";
+    font-size: 25px;
+}
+@media (max-width: 1280px) {
+    .elementor-15 .elementor-element.elementor-element-41ba94a .dickmenu a {
+        font-size: 20px;
+    }
+}/* End custom CSS */
